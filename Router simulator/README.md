@@ -1,7 +1,7 @@
 # router-simulator
 
 
-TEMA 1 - PROTOCOALE DE COMUNICATIE - Implementarea procesului de dirijare a pachetelor intr-un router in mai multi pasi:
+PROTOCOALE DE COMUNICATIE - Implementarea procesului de dirijare a pachetelor intr-un router in mai multi pasi:
 
 	- Parsarea tabelei de rutare:
 	- Cautarea in tabela de rutare: 
